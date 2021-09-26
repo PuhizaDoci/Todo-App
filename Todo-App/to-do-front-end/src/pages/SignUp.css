@@ -1,0 +1,11 @@
+.sign-up-page {
+    height: 100% !important;
+}
+
+.row-container-signup {
+    max-width: 90rem;
+}
+
+.card-login {
+    padding: 10px 20px;
+}

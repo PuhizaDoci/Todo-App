@@ -1,0 +1,11 @@
+.login-page {
+    height: 100% !important;
+}
+
+.row-container {
+    max-width: 70rem;
+}
+
+.card-login {
+    padding: 10px 20px;
+}

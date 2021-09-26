@@ -1,0 +1,21 @@
+.delete-button {
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+.custom-control-lg .custom-control-label::before,
+.custom-control-lg .custom-control-label::after {
+    top: 0.1rem !important;
+    left: -2rem !important;
+    width: 1.25rem !important;
+    height: 1.25rem !important;
+}
+
+.custom-control-lg .custom-control-label {
+    font-size: 1rem !important;
+}
+
+.border {
+    border-bottom: 1px solid black;
+    width: 100%;
+}
